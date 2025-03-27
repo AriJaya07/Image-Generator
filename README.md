@@ -1,7 +1,5 @@
 # Image Generator using Hugging Face and Python
 
-![Generated Image](https://your-image-link.com/generated-image.png)
-
 ## 📌 Overview
 This project is an **AI-based Image Generator** that utilizes **Hugging Face's models** and **Python** to generate images from text prompts. It provides an easy-to-use interface for creating AI-generated images.
 
